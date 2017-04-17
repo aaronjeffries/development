@@ -17,4 +17,5 @@ The rules of tennis scoring can be summarized below:
 2. Don't change the TennisTest class.  You can change anything under the src/main/java source folder. 
 3. You may use the [Javadocs](https://docs.oracle.com/javase/8/docs/api/) for reference.
 4. This test is to see your thought process.  You don't necessarily need to finish to "pass".  If you get stuck you're welcome to ask questions. 
-5. You need only report the score for the current game. Sets and Matches are out of scope.
+5. We understand that you could write more elegant code if given additional time.  Do the best you can.
+6. You need to only report the score for the current game. Sets and Matches are out of scope.
